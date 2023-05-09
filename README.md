@@ -1,6 +1,6 @@
 # pdf-generator
 
-A simple PDF generator based on client-side using the PDFKit library.
+A simple PDF generator based on using the PDFKit library.
 
 First you need to install all the npm dependencies with: npm i
 
