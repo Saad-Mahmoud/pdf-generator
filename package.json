@@ -1,0 +1,26 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "A simple PDF generator based on client-side using the PDFKit library.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saad-Mahmoud/pdf-generator.git"
+  },
+  "keywords": [
+    "Node.js",
+    "PDFKit"
+  ],
+  "author": "Mahmoud Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saad-Mahmoud/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/Saad-Mahmoud/pdf-generator#readme",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
+}
